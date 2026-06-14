@@ -1,7 +1,7 @@
 [mod_information]
 
 name="Ganymede Runners' Aftermarket Huds"
-id="jcaleb.GRunAftermarketHuds"
+id="jcaleb.AftermarketHuds"
 description="GRUN_AFTERMARKETHUDS_DESCRIPTION"
 brief="GRUN_AFTERMARKETHUDS_BRIEF"
 author="jcaleb"
@@ -24,15 +24,15 @@ en="100%"
 
 [links]
 
-HEVLIB_GITHUB={"URL":"https://github.com/JCalebBR/MoreHuds"}
-HEVLIB_DISCORD={"URL":""}
+HEVLIB_GITHUB={"URL":"https://github.com/JCalebBR/AftermarketHuds"}
+HEVLIB_DISCORD={"URL":"https://discord.com/channels/426287934870781952/1515466407750668358/1515466407750668358"}
 HEVLIB_NEXUS={"URL":""}
 HEVLIB_DONATIONS={"URL":"https://ko-fi.com/jcaleb"}
-HEVLIB_BUGREPORTS={"URL":""}
+HEVLIB_BUGREPORTS={"URL":"https://discord.com/channels/426287934870781952/1515466407750668358/1515466407750668358"}
 
 [manifest_definitions]
 
 manifest_version=2.2
-manifest_url="https://raw.githubusercontent.com/JCalebBR/MoreHuds/refs/heads/main/Mod.manifest"
+manifest_url="https://raw.githubusercontent.com/JCalebBR/AftermarketHuds/refs/heads/main/Mod.manifest"
 changelog_path="changelog.txt"
 modlet_priority=-1
